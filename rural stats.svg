@@ -190,9 +190,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52806077"
-     inkscape:cx="-11.490809"
-     inkscape:cy="342.45906"
+     inkscape:zoom="0.52806075"
+     inkscape:cx="-432.84384"
+     inkscape:cy="342.45903"
      inkscape:document-units="px"
      inkscape:current-layer="layer4-7"
      showgrid="false"
@@ -226,7 +226,7 @@
          inkscape:label="square"
          id="layer4-7">
         <rect
-           style="fill:#000000;fill-opacity:1;stroke:#bd1b00;stroke-width:8.10018063;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:#bd1b00;stroke-width:8.10018063;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect31778"
            width="1187.8595"
            height="1631.8627"
@@ -5219,7 +5219,7 @@
              id="tspan126685">Than</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
            x="-540.3349"
            y="290.1377"
            id="text126689"
